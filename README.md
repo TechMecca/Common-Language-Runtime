@@ -127,8 +127,7 @@ std::wstring paramValue = L"Injected!";
 
 ---
 
-## **🛑 Limitations**
-🚫 Cannot inject into **native (non-.NET) processes**.  
+## **🛑 Limitations** 
 🚫 Requires **proper architecture matching** (x86 vs x64).    
 ---
 
