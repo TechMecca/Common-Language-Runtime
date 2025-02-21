@@ -43,7 +43,6 @@ Before using this project, ensure you have the following installed:
 
 ### **🔹 Compilation Requirements**
 - **Windows SDK**
-- **Visual Studio 2019/2022**
 - **C++ Compiler**
 - **CMake (Optional for cross-platform builds)**
 
