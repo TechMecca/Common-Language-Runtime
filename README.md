@@ -127,9 +127,6 @@ std::wstring paramValue = L"Injected!";
 
 ---
 
-## **🛑 Limitations** 
-🚫 Requires **proper architecture matching** (x86 vs x64).    
----
 
 ## **⚠️ Legal Disclaimer**
 This software is provided **for educational and research purposes only**.  
