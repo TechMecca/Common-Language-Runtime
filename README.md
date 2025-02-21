@@ -1,7 +1,3 @@
-Here's a **professional and well-structured** **GitHub README** for your project, outlining **features, supported platforms, usage, and requirements**. 🚀
-
----
-
 ### **🚀 Description**
 This project is a **dynamic .NET injector DLL** that can be injected into a process and execute **.NET code dynamically** inside its memory. It supports both **.NET Framework (v2.0 - v4.8)** and **.NET Core / .NET 5 / .NET 6+** applications.
 
