@@ -77,14 +77,6 @@ cmake .
 make
 ```
 
-2️⃣ **Inject the DLL into a target process**  
-Use any DLL injection method:
-```cpp
-HANDLE hProcess = OpenProcess(PROCESS_ALL_ACCESS, FALSE, targetProcessID);
-LPVOID pRemoteMemory = VirtualAllocEx(hProcess, NULL, dllSize, MEM_COMMIT, PAGE_READWRITE);
-WriteProcessMemory(hProcess, pRemoteMemory, dllData, dllSize, NULL);
-CreateRemoteThread(hProcess, NULL, 0, (LPTHREAD_START_ROUTINE)pRemoteMemory, NULL, 0, NULL);
-```
 
 3️⃣ **DLL Executes the .NET Assembly**
 ```cpp
