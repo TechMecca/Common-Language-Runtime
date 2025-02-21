@@ -2,11 +2,6 @@ Here's a **professional and well-structured** **GitHub README** for your project
 
 ---
 
-## **🔥 .NET Injector - Execute .NET Code from a DLL Injection**
-![GitHub repo size](https://img.shields.io/github/repo-size/yourrepo/dotnet-injector?style=flat-square)  
-![GitHub last commit](https://img.shields.io/github/last-commit/yourrepo/dotnet-injector?style=flat-square)  
-![GitHub issues](https://img.shields.io/github/issues/yourrepo/dotnet-injector?style=flat-square)  
-
 ### **🚀 Description**
 This project is a **dynamic .NET injector DLL** that can be injected into a process and execute **.NET code dynamically** inside its memory. It supports both **.NET Framework (v2.0 - v4.8)** and **.NET Core / .NET 5 / .NET 6+** applications.
 
